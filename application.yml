@@ -1,3 +1,6 @@
 vehicle:
   discount: 10
+spring:
+  profile:
+    active: dev
 
